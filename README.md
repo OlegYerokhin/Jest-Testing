@@ -27,3 +27,11 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### JSON server install & run
+```
+cd ./src
+```
+```
+json-server --watch db.json
+```
